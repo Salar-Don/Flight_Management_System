@@ -11,7 +11,7 @@ public class HellloWorld {
         FMS.populate();
         //THE MAIN MENU
         while(Option != 0) {
-            System.out.println("Welcome to Salar Airways \n");
+            System.out.println("Welcome to Salar Airways :) \n");
             System.out.println("Please Tell us what you desire :)\n");
             System.out.println("1. See flight Schedule");
             System.out.println("2. Book A Flight");
